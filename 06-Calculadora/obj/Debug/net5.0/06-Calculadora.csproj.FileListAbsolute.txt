@@ -1,0 +1,16 @@
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\06-Calculadora\bin\Debug\net5.0\06-Calculadora.exe
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\06-Calculadora\bin\Debug\net5.0\06-Calculadora.deps.json
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\06-Calculadora\bin\Debug\net5.0\06-Calculadora.runtimeconfig.json
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\06-Calculadora\bin\Debug\net5.0\06-Calculadora.runtimeconfig.dev.json
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\06-Calculadora\bin\Debug\net5.0\06-Calculadora.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\06-Calculadora\bin\Debug\net5.0\ref\06-Calculadora.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\06-Calculadora\bin\Debug\net5.0\06-Calculadora.pdb
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\06-Calculadora\obj\Debug\net5.0\06-Calculadora.csproj.AssemblyReference.cache
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\06-Calculadora\obj\Debug\net5.0\06-Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\06-Calculadora\obj\Debug\net5.0\06-Calculadora.AssemblyInfoInputs.cache
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\06-Calculadora\obj\Debug\net5.0\06-Calculadora.AssemblyInfo.cs
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\06-Calculadora\obj\Debug\net5.0\06-Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\06-Calculadora\obj\Debug\net5.0\06-Calculadora.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\06-Calculadora\obj\Debug\net5.0\ref\06-Calculadora.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\06-Calculadora\obj\Debug\net5.0\06-Calculadora.pdb
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\06-Calculadora\obj\Debug\net5.0\06-Calculadora.genruntimeconfig.cache

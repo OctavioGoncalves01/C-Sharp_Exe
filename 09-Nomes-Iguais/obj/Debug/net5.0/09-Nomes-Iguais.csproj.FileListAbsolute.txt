@@ -1,0 +1,16 @@
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\09-Nomes-Iguais\bin\Debug\net5.0\09-Nomes-Iguais.exe
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\09-Nomes-Iguais\bin\Debug\net5.0\09-Nomes-Iguais.deps.json
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\09-Nomes-Iguais\bin\Debug\net5.0\09-Nomes-Iguais.runtimeconfig.json
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\09-Nomes-Iguais\bin\Debug\net5.0\09-Nomes-Iguais.runtimeconfig.dev.json
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\09-Nomes-Iguais\bin\Debug\net5.0\09-Nomes-Iguais.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\09-Nomes-Iguais\bin\Debug\net5.0\ref\09-Nomes-Iguais.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\09-Nomes-Iguais\bin\Debug\net5.0\09-Nomes-Iguais.pdb
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\09-Nomes-Iguais\obj\Debug\net5.0\09-Nomes-Iguais.csproj.AssemblyReference.cache
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\09-Nomes-Iguais\obj\Debug\net5.0\09-Nomes-Iguais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\09-Nomes-Iguais\obj\Debug\net5.0\09-Nomes-Iguais.AssemblyInfoInputs.cache
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\09-Nomes-Iguais\obj\Debug\net5.0\09-Nomes-Iguais.AssemblyInfo.cs
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\09-Nomes-Iguais\obj\Debug\net5.0\09-Nomes-Iguais.csproj.CoreCompileInputs.cache
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\09-Nomes-Iguais\obj\Debug\net5.0\09-Nomes-Iguais.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\09-Nomes-Iguais\obj\Debug\net5.0\ref\09-Nomes-Iguais.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\09-Nomes-Iguais\obj\Debug\net5.0\09-Nomes-Iguais.pdb
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\09-Nomes-Iguais\obj\Debug\net5.0\09-Nomes-Iguais.genruntimeconfig.cache

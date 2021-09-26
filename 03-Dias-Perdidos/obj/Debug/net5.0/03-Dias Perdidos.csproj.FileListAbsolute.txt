@@ -1,0 +1,16 @@
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\03-Dias Perdidos\bin\Debug\net5.0\03-Dias Perdidos.exe
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\03-Dias Perdidos\bin\Debug\net5.0\03-Dias Perdidos.deps.json
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\03-Dias Perdidos\bin\Debug\net5.0\03-Dias Perdidos.runtimeconfig.json
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\03-Dias Perdidos\bin\Debug\net5.0\03-Dias Perdidos.runtimeconfig.dev.json
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\03-Dias Perdidos\bin\Debug\net5.0\03-Dias Perdidos.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\03-Dias Perdidos\bin\Debug\net5.0\ref\03-Dias Perdidos.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\03-Dias Perdidos\bin\Debug\net5.0\03-Dias Perdidos.pdb
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\03-Dias Perdidos\obj\Debug\net5.0\03-Dias Perdidos.csproj.AssemblyReference.cache
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\03-Dias Perdidos\obj\Debug\net5.0\03-Dias Perdidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\03-Dias Perdidos\obj\Debug\net5.0\03-Dias Perdidos.AssemblyInfoInputs.cache
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\03-Dias Perdidos\obj\Debug\net5.0\03-Dias Perdidos.AssemblyInfo.cs
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\03-Dias Perdidos\obj\Debug\net5.0\03-Dias Perdidos.csproj.CoreCompileInputs.cache
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\03-Dias Perdidos\obj\Debug\net5.0\03-Dias Perdidos.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\03-Dias Perdidos\obj\Debug\net5.0\ref\03-Dias Perdidos.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\03-Dias Perdidos\obj\Debug\net5.0\03-Dias Perdidos.pdb
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\03-Dias Perdidos\obj\Debug\net5.0\03-Dias Perdidos.genruntimeconfig.cache

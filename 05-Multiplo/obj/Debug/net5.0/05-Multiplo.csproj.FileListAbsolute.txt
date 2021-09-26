@@ -1,0 +1,16 @@
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\05-Multiplo\bin\Debug\net5.0\05-Multiplo.exe
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\05-Multiplo\bin\Debug\net5.0\05-Multiplo.deps.json
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\05-Multiplo\bin\Debug\net5.0\05-Multiplo.runtimeconfig.json
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\05-Multiplo\bin\Debug\net5.0\05-Multiplo.runtimeconfig.dev.json
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\05-Multiplo\bin\Debug\net5.0\05-Multiplo.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\05-Multiplo\bin\Debug\net5.0\ref\05-Multiplo.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\05-Multiplo\bin\Debug\net5.0\05-Multiplo.pdb
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\05-Multiplo\obj\Debug\net5.0\05-Multiplo.csproj.AssemblyReference.cache
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\05-Multiplo\obj\Debug\net5.0\05-Multiplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\05-Multiplo\obj\Debug\net5.0\05-Multiplo.AssemblyInfoInputs.cache
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\05-Multiplo\obj\Debug\net5.0\05-Multiplo.AssemblyInfo.cs
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\05-Multiplo\obj\Debug\net5.0\05-Multiplo.csproj.CoreCompileInputs.cache
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\05-Multiplo\obj\Debug\net5.0\05-Multiplo.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\05-Multiplo\obj\Debug\net5.0\ref\05-Multiplo.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\05-Multiplo\obj\Debug\net5.0\05-Multiplo.pdb
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\05-Multiplo\obj\Debug\net5.0\05-Multiplo.genruntimeconfig.cache

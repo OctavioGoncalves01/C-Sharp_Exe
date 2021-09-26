@@ -1,0 +1,16 @@
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\11-Divisao(talvez)\bin\Debug\net5.0\11-Divisao(talvez).exe
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\11-Divisao(talvez)\bin\Debug\net5.0\11-Divisao(talvez).deps.json
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\11-Divisao(talvez)\bin\Debug\net5.0\11-Divisao(talvez).runtimeconfig.json
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\11-Divisao(talvez)\bin\Debug\net5.0\11-Divisao(talvez).runtimeconfig.dev.json
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\11-Divisao(talvez)\bin\Debug\net5.0\11-Divisao(talvez).dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\11-Divisao(talvez)\bin\Debug\net5.0\ref\11-Divisao(talvez).dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\11-Divisao(talvez)\bin\Debug\net5.0\11-Divisao(talvez).pdb
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\11-Divisao(talvez)\obj\Debug\net5.0\11-Divisao(talvez).csproj.AssemblyReference.cache
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\11-Divisao(talvez)\obj\Debug\net5.0\11-Divisao(talvez).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\11-Divisao(talvez)\obj\Debug\net5.0\11-Divisao(talvez).AssemblyInfoInputs.cache
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\11-Divisao(talvez)\obj\Debug\net5.0\11-Divisao(talvez).AssemblyInfo.cs
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\11-Divisao(talvez)\obj\Debug\net5.0\11-Divisao(talvez).csproj.CoreCompileInputs.cache
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\11-Divisao(talvez)\obj\Debug\net5.0\11-Divisao(talvez).dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\11-Divisao(talvez)\obj\Debug\net5.0\ref\11-Divisao(talvez).dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\11-Divisao(talvez)\obj\Debug\net5.0\11-Divisao(talvez).pdb
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\11-Divisao(talvez)\obj\Debug\net5.0\11-Divisao(talvez).genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\14-Maior-Deles\obj\Debug\net5.0\14-Maior-Deles.csproj.AssemblyReference.cache
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\14-Maior-Deles\obj\Debug\net5.0\14-Maior-Deles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\14-Maior-Deles\obj\Debug\net5.0\14-Maior-Deles.AssemblyInfoInputs.cache
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\14-Maior-Deles\obj\Debug\net5.0\14-Maior-Deles.AssemblyInfo.cs
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\14-Maior-Deles\obj\Debug\net5.0\14-Maior-Deles.csproj.CoreCompileInputs.cache
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\14-Maior-Deles\bin\Debug\net5.0\14-Maior-Deles.exe
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\14-Maior-Deles\bin\Debug\net5.0\14-Maior-Deles.deps.json
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\14-Maior-Deles\bin\Debug\net5.0\14-Maior-Deles.runtimeconfig.json
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\14-Maior-Deles\bin\Debug\net5.0\14-Maior-Deles.runtimeconfig.dev.json
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\14-Maior-Deles\bin\Debug\net5.0\14-Maior-Deles.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\14-Maior-Deles\bin\Debug\net5.0\ref\14-Maior-Deles.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\14-Maior-Deles\bin\Debug\net5.0\14-Maior-Deles.pdb
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\14-Maior-Deles\obj\Debug\net5.0\14-Maior-Deles.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\14-Maior-Deles\obj\Debug\net5.0\ref\14-Maior-Deles.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\14-Maior-Deles\obj\Debug\net5.0\14-Maior-Deles.pdb
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\14-Maior-Deles\obj\Debug\net5.0\14-Maior-Deles.genruntimeconfig.cache

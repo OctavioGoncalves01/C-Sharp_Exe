@@ -1,0 +1,16 @@
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\13-Somando-Par\bin\Debug\net5.0\13-Somando-Par.exe
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\13-Somando-Par\bin\Debug\net5.0\13-Somando-Par.deps.json
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\13-Somando-Par\bin\Debug\net5.0\13-Somando-Par.runtimeconfig.json
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\13-Somando-Par\bin\Debug\net5.0\13-Somando-Par.runtimeconfig.dev.json
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\13-Somando-Par\bin\Debug\net5.0\13-Somando-Par.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\13-Somando-Par\bin\Debug\net5.0\ref\13-Somando-Par.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\13-Somando-Par\bin\Debug\net5.0\13-Somando-Par.pdb
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\13-Somando-Par\obj\Debug\net5.0\13-Somando-Par.csproj.AssemblyReference.cache
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\13-Somando-Par\obj\Debug\net5.0\13-Somando-Par.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\13-Somando-Par\obj\Debug\net5.0\13-Somando-Par.AssemblyInfoInputs.cache
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\13-Somando-Par\obj\Debug\net5.0\13-Somando-Par.AssemblyInfo.cs
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\13-Somando-Par\obj\Debug\net5.0\13-Somando-Par.csproj.CoreCompileInputs.cache
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\13-Somando-Par\obj\Debug\net5.0\13-Somando-Par.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\13-Somando-Par\obj\Debug\net5.0\ref\13-Somando-Par.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\13-Somando-Par\obj\Debug\net5.0\13-Somando-Par.pdb
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\13-Somando-Par\obj\Debug\net5.0\13-Somando-Par.genruntimeconfig.cache

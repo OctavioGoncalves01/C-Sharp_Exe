@@ -1,0 +1,16 @@
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\07-Media-Final\bin\Debug\net5.0\07-Media-Final.exe
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\07-Media-Final\bin\Debug\net5.0\07-Media-Final.deps.json
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\07-Media-Final\bin\Debug\net5.0\07-Media-Final.runtimeconfig.json
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\07-Media-Final\bin\Debug\net5.0\07-Media-Final.runtimeconfig.dev.json
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\07-Media-Final\bin\Debug\net5.0\07-Media-Final.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\07-Media-Final\bin\Debug\net5.0\ref\07-Media-Final.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\07-Media-Final\bin\Debug\net5.0\07-Media-Final.pdb
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\07-Media-Final\obj\Debug\net5.0\07-Media-Final.csproj.AssemblyReference.cache
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\07-Media-Final\obj\Debug\net5.0\07-Media-Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\07-Media-Final\obj\Debug\net5.0\07-Media-Final.AssemblyInfoInputs.cache
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\07-Media-Final\obj\Debug\net5.0\07-Media-Final.AssemblyInfo.cs
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\07-Media-Final\obj\Debug\net5.0\07-Media-Final.csproj.CoreCompileInputs.cache
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\07-Media-Final\obj\Debug\net5.0\07-Media-Final.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\07-Media-Final\obj\Debug\net5.0\ref\07-Media-Final.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\07-Media-Final\obj\Debug\net5.0\07-Media-Final.pdb
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\07-Media-Final\obj\Debug\net5.0\07-Media-Final.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\04-Quociente\bin\Debug\net5.0\04-Quociente.exe
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\04-Quociente\bin\Debug\net5.0\04-Quociente.deps.json
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\04-Quociente\bin\Debug\net5.0\04-Quociente.runtimeconfig.json
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\04-Quociente\bin\Debug\net5.0\04-Quociente.runtimeconfig.dev.json
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\04-Quociente\bin\Debug\net5.0\04-Quociente.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\04-Quociente\bin\Debug\net5.0\ref\04-Quociente.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\04-Quociente\bin\Debug\net5.0\04-Quociente.pdb
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\04-Quociente\obj\Debug\net5.0\04-Quociente.csproj.AssemblyReference.cache
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\04-Quociente\obj\Debug\net5.0\04-Quociente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\04-Quociente\obj\Debug\net5.0\04-Quociente.AssemblyInfoInputs.cache
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\04-Quociente\obj\Debug\net5.0\04-Quociente.AssemblyInfo.cs
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\04-Quociente\obj\Debug\net5.0\04-Quociente.csproj.CoreCompileInputs.cache
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\04-Quociente\obj\Debug\net5.0\04-Quociente.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\04-Quociente\obj\Debug\net5.0\ref\04-Quociente.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\04-Quociente\obj\Debug\net5.0\04-Quociente.pdb
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\04-Quociente\obj\Debug\net5.0\04-Quociente.genruntimeconfig.cache

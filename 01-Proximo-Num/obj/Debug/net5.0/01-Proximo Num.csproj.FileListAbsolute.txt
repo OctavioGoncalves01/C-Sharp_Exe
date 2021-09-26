@@ -1,0 +1,16 @@
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\01-Proximo Num\bin\Debug\net5.0\01-Proximo Num.exe
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\01-Proximo Num\bin\Debug\net5.0\01-Proximo Num.deps.json
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\01-Proximo Num\bin\Debug\net5.0\01-Proximo Num.runtimeconfig.json
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\01-Proximo Num\bin\Debug\net5.0\01-Proximo Num.runtimeconfig.dev.json
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\01-Proximo Num\bin\Debug\net5.0\01-Proximo Num.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\01-Proximo Num\bin\Debug\net5.0\ref\01-Proximo Num.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\01-Proximo Num\bin\Debug\net5.0\01-Proximo Num.pdb
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\01-Proximo Num\obj\Debug\net5.0\01-Proximo Num.csproj.AssemblyReference.cache
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\01-Proximo Num\obj\Debug\net5.0\01-Proximo Num.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\01-Proximo Num\obj\Debug\net5.0\01-Proximo Num.AssemblyInfoInputs.cache
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\01-Proximo Num\obj\Debug\net5.0\01-Proximo Num.AssemblyInfo.cs
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\01-Proximo Num\obj\Debug\net5.0\01-Proximo Num.csproj.CoreCompileInputs.cache
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\01-Proximo Num\obj\Debug\net5.0\01-Proximo Num.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\01-Proximo Num\obj\Debug\net5.0\ref\01-Proximo Num.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\01-Proximo Num\obj\Debug\net5.0\01-Proximo Num.pdb
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\01-Proximo Num\obj\Debug\net5.0\01-Proximo Num.genruntimeconfig.cache

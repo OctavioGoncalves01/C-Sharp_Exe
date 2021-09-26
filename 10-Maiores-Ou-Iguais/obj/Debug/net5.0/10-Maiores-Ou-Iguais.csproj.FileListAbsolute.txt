@@ -1,0 +1,16 @@
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\10-Maiores-Ou-Iguais\bin\Debug\net5.0\10-Maiores-Ou-Iguais.exe
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\10-Maiores-Ou-Iguais\bin\Debug\net5.0\10-Maiores-Ou-Iguais.deps.json
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\10-Maiores-Ou-Iguais\bin\Debug\net5.0\10-Maiores-Ou-Iguais.runtimeconfig.json
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\10-Maiores-Ou-Iguais\bin\Debug\net5.0\10-Maiores-Ou-Iguais.runtimeconfig.dev.json
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\10-Maiores-Ou-Iguais\bin\Debug\net5.0\10-Maiores-Ou-Iguais.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\10-Maiores-Ou-Iguais\bin\Debug\net5.0\ref\10-Maiores-Ou-Iguais.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\10-Maiores-Ou-Iguais\bin\Debug\net5.0\10-Maiores-Ou-Iguais.pdb
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\10-Maiores-Ou-Iguais\obj\Debug\net5.0\10-Maiores-Ou-Iguais.csproj.AssemblyReference.cache
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\10-Maiores-Ou-Iguais\obj\Debug\net5.0\10-Maiores-Ou-Iguais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\10-Maiores-Ou-Iguais\obj\Debug\net5.0\10-Maiores-Ou-Iguais.AssemblyInfoInputs.cache
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\10-Maiores-Ou-Iguais\obj\Debug\net5.0\10-Maiores-Ou-Iguais.AssemblyInfo.cs
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\10-Maiores-Ou-Iguais\obj\Debug\net5.0\10-Maiores-Ou-Iguais.csproj.CoreCompileInputs.cache
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\10-Maiores-Ou-Iguais\obj\Debug\net5.0\10-Maiores-Ou-Iguais.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\10-Maiores-Ou-Iguais\obj\Debug\net5.0\ref\10-Maiores-Ou-Iguais.dll
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\10-Maiores-Ou-Iguais\obj\Debug\net5.0\10-Maiores-Ou-Iguais.pdb
+C:\Users\octav_jojrcpm\Exe C#\C-Sharp Exercicios\10-Maiores-Ou-Iguais\obj\Debug\net5.0\10-Maiores-Ou-Iguais.genruntimeconfig.cache
